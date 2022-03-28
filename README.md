@@ -6,7 +6,7 @@
 
 ## 🖥 Demo
 
-* `Live Demo on Netlify:` <a href="" target="\_blank">https://.netlify.app/</a>
+* `Live Demo on Netlify:` <a href="https://neumorphism-jason.netlify.app/" target="\_blank">https://neumorphism-jason.netlify.app/
 
 ![](.README_images/ee51d801.png)
 
